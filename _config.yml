@@ -11,19 +11,19 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+url: http://joyghosh.github.io/
+baseurl: /joyghosh/
+title: Joy Ghosh
+author: Joy Ghosh
 description: Personal blog and resume
-avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
-disqus: username
+avatar: joyghosh.png
+email: joyghosh007@gmail.com
+github: joyghosh # username
+# twitter:
+linkedin: joy-ghosh-b24b1364
+# stackoverflow: username   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus
+# disqus: username
 google_analytics: UA-69391421-1
 
 
